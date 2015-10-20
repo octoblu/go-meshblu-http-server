@@ -1,0 +1,12 @@
+.git
+.kubernetes
+.travis.yml
+.gitignore
+.codeclimate.yml
+node_modules
+coverage
+test
+README
+gogoslow4me
+Dockerfile
+entrypoint
